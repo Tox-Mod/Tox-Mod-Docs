@@ -93,7 +93,7 @@ module.exports = {
     announcementBar: {
       id: 'notice',
       content:
-        'This Documentation site is a Huge work in progress!',
+        '⚠️ This Documentation site is a Huge work in progress!',
     },
     image: 'https://toxmod.xyz/images/ToxModLogo.gif',
     metadatas: [
