@@ -18,11 +18,11 @@
 }
 
 html[data-theme='dark'] {
-  --ifm-blockquote-color: #c1c1c1;
+  --ifm-blockquote-color: rgb(13, 255, 0);
 }
 
 .docusaurus-highlight-code-line {
-  background-color: 13, 255, 0;
+  background-color: rgb(13, 255, 0);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
