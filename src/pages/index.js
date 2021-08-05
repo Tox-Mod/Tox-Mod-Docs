@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     num: 1,
-    title: 'Community Sourced',
+    title: 'Auto Mod',
     iconName: 'lock',
     description: (
       <>
