@@ -10,7 +10,7 @@ const features = [
   {
     num: 1,
     title: 'Auto Moderation',
-    iconName: 'lock',
+    iconName: 'user-lock',
     description: (
       <>
        Anti-Spam, Anti-Raid and Anti-Links/Invites and more. All the Auto-Mod features you need to help keep your Server Toxicity Free and your Members Happy!.
@@ -34,6 +34,16 @@ const features = [
     description: (
       <>
        Let your Members know when they do something wrong, Keep track of who has been warned for what. Saved globally to be viewed/user as a Reputation System.
+      </>
+    ),
+  },
+  {
+    num: 4,
+    title: 'Channel Lockdowns',
+    iconName: 'lock',
+    description: (
+      <>
+       Lock and Unlock your Server Channels individually or all at once to keep out those pesky Spammers, Raiders, Losers and Keyboard Warriors!
       </>
     ),
   },
