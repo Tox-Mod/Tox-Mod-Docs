@@ -83,6 +83,12 @@ module.exports = {
     // Extra settings
     colorMode: {
       defaultMode: 'dark',
+      switchConfig: {
+        darkIcon: "🌛",
+        darkIconStyle: {},
+        lightIcon: "🌞",
+        lightIconStyle: {},
+      },
     },
     image: 'https://toxmod.xyz/images/ToxModLogo.gif',
     metadatas: [
