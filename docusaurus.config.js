@@ -1,22 +1,22 @@
 module.exports = {
-  title: 'CordX',
-  tagline: 'Documentation for the CordX Website, API and Discord Bot.',
-  url: 'https://docs.cordx.lol',
+  title: 'Tox Mod',
+  tagline: 'The Discord Bot with a little bit of Attitude!.',
+  url: 'https://docs.toxmod.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/CordX-Logo.png',
   organizationName: 'TheRealToxicDev', // Usually your GitHub org/user name.
-  projectName: 'docs.cordx.wtf', // Usually your repo name.
+  projectName: 'Tox-Mod-Docs', // Usually your repo name.
   customFields: {
-    metaDescription: 'Documentation for the CordX Project.',
+    metaDescription: 'Documentation for the Discord Bot with a little bit of Attitude.',
   },
   themeConfig: {
     // Vanilla settings
     navbar: {
-      title: 'CordX Docs',
+      title: 'Tox Mod Docs',
       logo: {
-        alt: 'CordX Logo',
+        alt: 'Tox Mod Logo',
         src: 'img/CordX-Logo.png',
       },
       items: [
@@ -82,7 +82,7 @@ module.exports = {
     image: 'https://cordx.wtf/images/CordX-Logo.png',
     metadatas: [
       { name: 'twitter:card', content: 'summary' },
-      { name: 'og:title', content: 'CordX Documentation' },
+      { name: 'og:title', content: 'Tox Mod Documentation' },
     ],
   },
   presets: [
