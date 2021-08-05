@@ -29,12 +29,12 @@ module.exports = {
         {
           label: 'Discord',
           position: 'left',
-          href: 'https://cordx.wtf/discord'
+          href: 'https://toxmod.xyz/discord'
         },
         {
           label: 'Status',
           position: 'left',
-          href: 'https://stats.uptimerobot.com/PJMqKc4RD4'
+          href: 'https://toxmod.instatus.com'
         }
       ],
     },
@@ -58,15 +58,15 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://cordx.wtf/discord',
+              href: 'https://toxmod.xyz/discord',
             },
             {
               label: 'Terms of Service',
-              href: 'https://cordx.wtf/terms',
+              href: 'https://toxmod.xyz/terms',
             },
             {
               label: 'Privacy Policy',
-              href: 'https://cordx.wtf/privacy',
+              href: 'https://toxmod.xyz/privacy',
             }
           ],
         },
@@ -79,7 +79,7 @@ module.exports = {
     colorMode: {
       defaultMode: 'dark',
     },
-    image: 'https://cordx.wtf/images/CordX-Logo.png',
+    image: 'https://toxmod.xyz/images/ToxModLogo.gif',
     metadatas: [
       { name: 'twitter:card', content: 'summary' },
       { name: 'og:title', content: 'Tox Mod Documentation' },
