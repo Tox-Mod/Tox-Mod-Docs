@@ -72,7 +72,7 @@ module.exports = {
         },
       ],
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} CordX`
+      copyright: `Copyright © ${new Date().getFullYear()} Toxic Dev`
     },
 
     // Extra settings
