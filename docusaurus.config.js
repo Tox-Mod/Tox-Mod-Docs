@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/CordX-Logo.png',
+  favicon: 'img/E795CF4F-43F3-4FBE-A183-6B85EBA4C20E.gif',
   organizationName: 'TheRealToxicDev', // Usually your GitHub org/user name.
   projectName: 'Tox-Mod-Docs', // Usually your repo name.
   customFields: {
