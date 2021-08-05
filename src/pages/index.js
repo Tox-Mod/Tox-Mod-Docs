@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     num: 1,
-    title: 'Auto Mod',
+    title: 'Auto Moderation',
     iconName: 'lock',
     description: (
       <>
@@ -19,21 +19,21 @@ const features = [
   },
   {
     num: 2,
-    title: 'Always Supportive',
-    iconName: 'comments',
+    title: 'Custom Dashboard',
+    iconName: 'globe',
     description: (
       <>
-        ShareX is Complicated, Let us do all the Hard Work, Link Creation, DNS Customization & Multi-Tasking for you.
+        Update your Server Settings, Manage the Bots Settings, View Server and Global Infractions and more. All from the comfort of your Phone or PC.
       </>
     ),
   },
   {
     num: 3,
-    title: ' Easy to Use',
+    title: 'Warn/Rep System',
     iconName: 'book-open',
     description: (
       <>
-       CordX is a Well Documenteted Application with a Friendly, Dedicated, Reliable and ready to help Support Team.
+       Let your Members know when they do something wrong, Keep track of who has been warned for what. Saved globally to be viewed/user as a Reputation System.
       </>
     ),
   },
