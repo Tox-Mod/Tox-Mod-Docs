@@ -3,17 +3,10 @@ module.exports = {
     'about',
     {
       type: "category",
-      label: "User Guide",
+      label: "API Docs",
       items: [
-        "user-guide/users"
+        "api/intro"
       ],
-    },
-    {
-      type: "category",
-      label: "Domain Guide",
-      items: [
-        "custom-domains/domains"
-      ]
     }
   ],
 };
