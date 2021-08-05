@@ -90,6 +90,11 @@ module.exports = {
         lightIconStyle: {},
       },
     },
+    announcementBar: {
+      id: 'notice',
+      content:
+        'This Documentation site is a Huge work in progress!',
+    },
     image: 'https://toxmod.xyz/images/ToxModLogo.gif',
     metadatas: [
       { name: 'twitter:card', content: 'summary' },
