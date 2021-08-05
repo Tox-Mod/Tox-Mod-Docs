@@ -17,7 +17,7 @@ module.exports = {
       title: 'Tox Mod Docs',
       logo: {
         alt: 'Tox Mod Logo',
-        src: 'img/CordX-Logo.png',
+        src: 'img/E795CF4F-43F3-4FBE-A183-6B85EBA4C20E.gif',
       },
       items: [
         {
