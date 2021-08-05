@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/E795CF4F-43F3-4FBE-A183-6B85EBA4C20E.gif',
+  favicon: 'img/584C6B70-CA2C-48DE-B737-107F58FDC322.png',
   organizationName: 'TheRealToxicDev', // Usually your GitHub org/user name.
   projectName: 'Tox-Mod-Docs', // Usually your repo name.
   customFields: {
@@ -44,12 +44,12 @@ module.exports = {
           title: 'Links',
           items: [
             {
-              label: 'Main Website',
-              href: 'https://cordx.wtf',
+              label: 'Website',
+              href: 'https://toxmod.xyz',
             },
             {
-              label: 'Upload Server',
-              href: 'https://cdn.cordx.wtf',
+              label: 'Dashboard',
+              href: 'https://toxmod.xyz/dashboard',
             }
           ],
         },
@@ -61,11 +61,11 @@ module.exports = {
               href: 'https://toxmod.xyz/discord',
             },
             {
-              label: 'Terms of Service',
+              label: 'Terms',
               href: 'https://toxmod.xyz/terms',
             },
             {
-              label: 'Privacy Policy',
+              label: 'Privacy',
               href: 'https://toxmod.xyz/privacy',
             }
           ],
