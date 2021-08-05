@@ -10,10 +10,10 @@ const features = [
   {
     num: 1,
     title: 'Community Sourced',
-    iconName: 'brain',
+    iconName: 'lock',
     description: (
       <>
-       Bring your ideas to reality here at CordX we are a 100% Community Based ShareX solution and Suggestions are welcome.
+       Anti-Spam, Anti-Raid and Anti-Links/Invites and more. All the Auto-Mod features you need to help keep your Server Toxicity Free and your Members Happy!.
       </>
     ),
   },
