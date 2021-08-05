@@ -29,13 +29,17 @@ html[data-theme='dark'] {
 }
 
 .accent1 {
-  color: #C4A0BC;
+  color: #7289DA;
 }
 
 .accent2 {
-  color: #e5cb95;
+  color: #0A0917;
 }
 
 .accent3 {
-  color: #7fcdb8;
+  color: #e02012;
+}
+
+.accent4 {
+  color: #bab520;
 }
