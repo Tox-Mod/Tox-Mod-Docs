@@ -23,13 +23,18 @@ module.exports = {
         {
           to: 'docs/',
           activeBaseRegex: 'docs/$',
-          label: 'Getting Started',
+          label: 'Documentation',
           position: 'left',
         },
         {
           label: 'Discord',
           position: 'left',
           href: 'https://toxmod.xyz/discord'
+        },
+        {
+          label: 'Twitter',
+          position: 'left',
+          href: 'https://twitter.com/ToxMod'
         },
         {
           label: 'Status',
