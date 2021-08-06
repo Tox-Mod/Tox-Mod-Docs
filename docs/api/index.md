@@ -24,6 +24,6 @@ If you absolutely find yourself stuck and needing some help you can join our [di
 
 Users can request their data to be removed by contacting our Staff Team in our Discord Server listed above 👆.
 
-:::
-
 Additionally a user can request their collected data (username etc) to be deleted in their [profile](https://toxmod.xyz/profile)
+
+:::
