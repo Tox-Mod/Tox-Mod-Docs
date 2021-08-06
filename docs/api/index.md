@@ -5,8 +5,7 @@ sidebar_label: Introduction
 description: Information about the Tox Mod API.
 ---
 
-:::note
+The Tox Mod API and Reputation System are in no way considered complete and should be considered as such until stated by our dev team.
+Tox Mod has created a reputation and warning system based entirely around our API and accessible from any API Client.
 
-This section of our Documentation is a Work In Progress and will be available soon!
-
-:::
+---
