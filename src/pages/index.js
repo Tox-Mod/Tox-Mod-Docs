@@ -47,6 +47,56 @@ const features = [
       </>
     ),
   },
+  {
+    num: 5,
+    title: 'Welcome/Leave System',
+    iconName: 'hand-wave',
+    description: (
+      <>
+       Enable and Customize Tox Mods Welcome and Leave Messages in your server. Let users know where to find the Rules, Useful Info and more!
+      </>
+    ),
+  },
+  {
+    num: 6,
+    title: 'Advanced Logging',
+    iconName: 'file',
+    description: (
+      <>
+       Tox Mod logs Any and All Server/Moderator related actions. To help keep you and your staff in the know!
+      </>
+    ),
+  },
+  {
+    num: 7,
+    title: 'Case Management',
+    iconName: 'briefcase',
+    description: (
+      <>
+       View a users Global Warns, Bans, Kicks Mutes and more. Keep track of who is up to what and should or shouldn't be trusted!
+      </>
+    ),
+  },
+  {
+    num: 8,
+    title: 'Audit Logs',
+    iconName: 'eyes',
+    description: (
+      <>
+       Stay Up-To Date with when a User updates your Server Settings, Channels, Bans etc!
+      </>
+    ),
+  },
+  {
+    num: 9,
+    title: 'Auto Roles',
+    iconName: 'star',
+    description: (
+      <>
+       Automatically assign roles to Users and Bots when they join the server!
+      </>
+    ),
+  },
 ];
 
 function Feature({num, title, iconName, description}) {
