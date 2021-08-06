@@ -77,7 +77,7 @@ module.exports = {
         },
       ],
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Toxic Dev`
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://toxicdev.me">Toxic Dev</a>`
     },
 
     // Extra settings
