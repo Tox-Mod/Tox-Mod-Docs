@@ -20,7 +20,7 @@ If you absolutely find yourself stuck and needing some help you can join our [di
 
 ## Data Deletion
 
-:::warning 
+:::tip 
 
 Users can request their data to be removed by contacting our Staff Team in our Discord Server listed above 👆.
 
