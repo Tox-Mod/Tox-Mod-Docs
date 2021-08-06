@@ -7,6 +7,6 @@ description: Information about the Tox Mod API.
 
 :::note
 
-This section of our Documentation is a Work In Progress and will ge available soon!
+This section of our Documentation is a Work In Progress and will be available soon!
 
 :::
