@@ -1,7 +1,7 @@
 ---
 id: intro
-title: API Docs
-sidebar_label: API
+title: Tox Mod API
+sidebar_label: Introduction
 description: Information about the Tox Mod API.
 ---
 
