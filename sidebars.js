@@ -12,7 +12,8 @@ module.exports = {
       type: "category",
       label: "Commands",
       items: [
-        "commands/chat-cmds"
+        "commands/chat-cmds",
+        "commands/info-cmds"
       ],
     }
   ],
