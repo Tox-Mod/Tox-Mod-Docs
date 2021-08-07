@@ -3,3 +3,5 @@
 
 <hr>
 
+<h2>Self Hosting</h2>
+
