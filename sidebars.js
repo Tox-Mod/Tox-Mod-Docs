@@ -15,6 +15,14 @@ module.exports = {
         "commands/chat-cmds",
         "commands/info-cmds"
       ],
+    },
+    {
+      type: "category",
+      label: "Permissions",
+      items: [
+        "permissions/client-perms",
+        "permissions/user-perms"
+      ],
     }
   ],
 };
