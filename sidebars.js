@@ -3,9 +3,16 @@ module.exports = {
     'about',
     {
       type: "category",
-      label: "API Docs",
+      label: "API",
       items: [
         "api/intro"
+      ],
+    },
+    {
+      type: "category",
+      label: "Commands",
+      items: [
+        "commands/chat-cmds"
       ],
     }
   ],
