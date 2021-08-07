@@ -1,6 +1,6 @@
 {
-  "name": "docs.cordx.wtf",
-  "version": "1.0.0",
+  "name": "tox-mod-docs",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
