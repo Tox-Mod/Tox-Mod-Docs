@@ -5,7 +5,8 @@ sidebar_label: User
 description: Documentation on our User based Permission System.
 ---
 
-Paradise Bots implements a permission schema that naturally extends discord's native functionality. A set of permissions can be applied to each role or member of a server.
+Tox Mod implements a permission schema that naturally extends discord's native functionality. 
+A set of permissions can be applied to each role or member of a server.
 
 Below is a table of all current permissions and their hexidecimal values:
 
@@ -37,5 +38,5 @@ The default role, `@everyone`, always holds the default base permissions for eve
 
 ## Calculating a User's Permissions
 
-Tox Mods permissions are only a additive. Therefore a user's permissions are always exactly the union of their personal permissions and the permissions of every role that they have:
+Tox Mods permissions are only a additive. Therefore a user's permissions are always exactly the union of their personal permissions and the permissions of every role that they have
 
