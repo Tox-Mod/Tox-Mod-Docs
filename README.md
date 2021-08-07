@@ -1,7 +1,14 @@
-<h2 align='center'><img src="https://toxmod.xyz/images/ToxModLogo.gif" height='100px' width='100px' /><br>Tox Mod Docs</h2>
-<p align="center">Official Documentation for The Discord Bot with a little bit of Attitude.</p>
+<h2 align='center'><img src="https://toxmod.xyz/images/ToxModLogo.gif" height='100px' width='100px' />
+  <br>
+  Tox Mod Docs
+</h2>
+<p align="center">
+  Official Documentation for The Discord Bot with a little bit of Attitude.
+</p>
 
 <hr>
 
-<h2>Self Hosting</h2>
-
+<h2 align='center'>Self Hosting</h2>
+<p align="center">
+  Support will not be offered for Self-Hosting any instances of the Tox Mod Bot, Website, API or Documentation.
+</p>
