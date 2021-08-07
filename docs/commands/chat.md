@@ -13,8 +13,5 @@ We may fail to update this as changes to the bot roll out , for an accurate list
 
 | Name        | Description                               |
 | ----------- | ----------------------------------------- |
-| about       | Shows some information about Tox Mod      |
-| case        | Text                                      |
-| channel     | Text                                      |
-| check       | Text                                      |
-| help        | Text                                      |
+| say         | Send a message to a specific channel using the bot!   |
+| snipe       | Snipe any recently deleted messages or images         |
