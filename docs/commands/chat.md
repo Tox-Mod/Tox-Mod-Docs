@@ -1,8 +1,8 @@
 ---
-id: info-cmds
-title: Information Commands
-sidebar_label: Info
-description: List of Tox Mods Info Commands.
+id: chat-cmds
+title: Chat Commands
+sidebar_label: Chat
+description: List of Tox Mods Chat Commands.
 ---
 
 :::note 
