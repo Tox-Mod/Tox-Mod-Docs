@@ -5,9 +5,11 @@ sidebar_label: Info
 description: List of Tox Mods Info Commands.
 ---
 
-Note that we may fail to update this as changes to the bot roll out , for an accurate list check [here](https://toxmod.xyz/commands)
+:::note
 
----
+We may fail to update this as changes to the bot roll out , for an accurate list check [here](https://toxmod.xyz/commands)
+
+:::
 
 | Name        | Description                                               |
 | ----------- | --------------------------------------------------------- |
