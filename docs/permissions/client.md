@@ -19,12 +19,13 @@ Below is a table of all current permissions and their hexidecimal values:
 | VIEW_PRIVATE_LOGS          | 0x0004                 | Allows viewing any action logged in the guild               |
 | REVERT_LOG_ACTIONS         | 0x0008                 | Allows reverting any reversible action logged               |
 | VIEW_SETTINGS              | 0x0100                 | Allows viewing settings for the guild                       |
+| SEND_MESSAGES              | 0x0112                 | Allows Sending Messages and Executing Base Level Commands   |
 | MANAGE_SETTINGS            | 0x0200                 | Allows modifying settings for the guild                     |
 | EXEC_PURGE_CMD             | 0x0400                 | Allows executing the purge command                          |
 
 :::warning
 
-The default permission value for a new guild is `0x112`.
+The default permission value for a new guild is `0x0112`.
 
 :::
 
