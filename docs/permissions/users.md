@@ -1,11 +1,11 @@
 ---
-id: user-perms
-title: User Permissions
+id: client-perms
+title: Client Permissions
 sidebar_label: User
-description: Documentation on our User based Permission System.
+description: Documentation on our Client/Bot based Permission System.
 ---
 
-Tox Mod implements a user permission schema that naturally extends discord's native functionality. 
+Tox Mod implements a client permission schema that naturally extends discord's native functionality. 
 A set of permissions can be applied to each role or member of a server.
 
 Below is a table of all current permissions and their hexidecimal values:
