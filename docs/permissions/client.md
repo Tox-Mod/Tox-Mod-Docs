@@ -14,13 +14,13 @@ Below is a table of all current permissions and their hexidecimal values:
 
 | Permission                 | Value                  | Description                                                 |
 | -------------------------- | ---------------------- | ----------------------------------------------------------- |
-| ADMINISTRATOR              | 0x0001                 | Grants all permissons |
-| VIEW_PUBLIC_LOGS           | 0x0002                 | Allows viewing any action logged in a public channel |
-| VIEW_PRIVATE_LOGS          | 0x0004                 | Allows viewing any action logged in the guild |
-| REVERT_LOG_ACTIONS         | 0x0008                 | Allows reverting any reversible action logged |
-| VIEW_SETTINGS              | 0x0100                 | Allows viewing paradise settings for the guild |
-| MANAGE_SETTINGS            | 0x0200                 | Allows modifying Paradise settings for the guild |
-| EXEC_PURGE_CMD             | 0x0400                 | Allows executing the purge command |
+| ADMINISTRATOR              | 0x0001                 | Grants all permissons                                       |
+| VIEW_PUBLIC_LOGS           | 0x0002                 | Allows viewing any action logged in a public channel        |
+| VIEW_PRIVATE_LOGS          | 0x0004                 | Allows viewing any action logged in the guild               |
+| REVERT_LOG_ACTIONS         | 0x0008                 | Allows reverting any reversible action logged               |
+| VIEW_SETTINGS              | 0x0100                 | Allows viewing settings for the guild                       |
+| MANAGE_SETTINGS            | 0x0200                 | Allows modifying settings for the guild                     |
+| EXEC_PURGE_CMD             | 0x0400                 | Allows executing the purge command                          |
 
 :::warning
 
