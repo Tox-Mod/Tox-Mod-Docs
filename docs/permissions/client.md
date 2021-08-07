@@ -30,5 +30,6 @@ The default role, `@everyone`, always holds the default base permissions for eve
 
 ## Calculating a User's Permissions
 
-Paradise Bots permissions are only additive. Therefore a user's permissions are always exactly the union of their personal permissions and the permissions of every role that they have!
+Tox Mods permissions are only a additive. 
+Therefore a user's permissions are always exactly the union of their personal permissions and the permissions of every role that they have!
 
