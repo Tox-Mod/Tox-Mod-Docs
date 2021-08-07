@@ -10,5 +10,7 @@
 
 <h2 align='center'>Self Hosting</h2>
 <p align="center">
-  Support will <strong>not</strong> be offered for Self-Hosting any instances of the Tox Mod Bot, Website, API or Documentation.
+  • Support will <strong>not</strong> be offered for Self-Hosting any instances of the Tox Mod Bot, Website, API or Documentation.
+ <br />
+  • You are not permitted to use, modify or publish this code without my express permission.
 </p>
