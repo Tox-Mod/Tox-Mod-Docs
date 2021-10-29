@@ -20,10 +20,16 @@ module.exports = {
         src: 'img/E795CF4F-43F3-4FBE-A183-6B85EBA4C20E.gif',
       },
       items: [
+       {
+          to: 'blog/',
+          activeBaseRegex: 'docs/$',
+          label: 'Blog',
+          position: 'left',
+        },
         {
           to: 'docs/',
           activeBaseRegex: 'docs/$',
-          label: 'Documentation',
+          label: 'Docs',
           position: 'left',
         },
         {
