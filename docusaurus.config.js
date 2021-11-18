@@ -22,7 +22,7 @@ module.exports = {
       items: [
        {
           to: 'blog/',
-          activeBaseRegex: 'docs/$',
+          activeBaseRegex: 'blog/$',
           label: 'Blog',
           position: 'left',
         },
@@ -116,7 +116,6 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
-          editUrl: `${customFields.githubDocsUrl}/tree/develop`,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
