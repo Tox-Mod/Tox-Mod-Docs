@@ -114,6 +114,10 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        blog: {
+          showReadingTime: true,
+          editUrl: `${customFields.githubDocsUrl}/tree/develop`,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
