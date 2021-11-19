@@ -77,6 +77,8 @@ exports.devs = process.env.DEVS
 | BanLogs                | Channel ID for the Ban Logs.                  |
 | BugLogs                | Channel ID for the Bug Logs.                  |
 | ErrLogs                | Channel ID for the Error Logs.                |
-
-
+| owners                 | Array of Bot Owner IDs.                       |
+| admins                 | Array of Bot Admin IDs.                       |
+| devs                   | Array of Bot Dev IDs.                         |
+| beta                   | Array of Beta User IDs.                       |
 
