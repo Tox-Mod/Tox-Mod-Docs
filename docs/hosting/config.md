@@ -67,6 +67,16 @@ exports.devs = process.env.DEVS
 | clientID               | The Discord Client ID                         |
 | clientSecret           | The Discord Client Secret                     |
 | domain                 | Callback (Ex: https://domain.xyz/callback     | 
+| mongo_url              | Mongo DB Connection String.                   |
+| port                   | The port for the Web Server.                  |
+| maintenance            | Maintenance Mode (true or false).             |
+| ServerInvite           | Support Server Invite Link.                   |
+| SupportGuild           | Support Server Guild ID.                      |
+| JoinLogs               | Channel ID for Join/Leave Logs.               |
+| AuthLogs               | Channel ID for the oAuth Logs.                |
+| BanLogs                | Channel ID for the Ban Logs.                  |
+| BugLogs                | Channel ID for the Bug Logs.                  |
+| ErrLogs                | Channel ID for the Error Logs.                |
 
 
 
