@@ -87,8 +87,65 @@ exports.devs = process.env.DEVS
 ## User Config
 Instead of using the env bars and predefined config shown above you can
 setup the config to read the variables directly from that file instead of
-the `.env`
+the `.env` by filling out the variables as shown below
 
 ```js:title=config
+
+/**
+* DISCORD CLIENT STUFF GOES HERE!
+*/
+exports.token = ''
+
+exports.clientID = ''
+
+exports.clientSecret = ''
+
+exports.domain = ''
+
+exports.mongo_url = ''
+
+exports.port = process.env.PORT
+
+/**
+* SUPPORT SERVER SETTINGS
+*/
+exports.ServerInvite = ''
+exports.SupportGuild = ''
+exports.JoinLogs = ''
+exports.AuthLogs = ''
+exports.BanLogs = ''
+exports.BugLogs = ''
+exports.ErrLogs = ''
+
+exports.maintenance = false // true or false
+
+/**
+* DEFINE THE USERS AND THEIR ACCESS 
+*/
+exports.owners = [
+    "", // User 1
+    "", // User 2
+    "", // User 3
+    "", // User 4
+    "", // User 5
+    "" // User 6
+]
+
+exports.admins = [
+    "", // User 1
+    "" // User 2
+]
+
+exports.beta = [
+    "", // User 1
+    "", // User 2
+    "", // User 3
+    "" // User 4
+]
+
+exports.devs = [
+    "", // User 1
+    "" // User 2
+]
 
 ```
