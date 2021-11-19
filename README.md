@@ -2,7 +2,6 @@
   <br>
   Tox Mod Docs
 </h2>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/218d3945-e52f-4800-90b5-ad7a2a0fb949/deploy-status)](https://app.netlify.com/sites/clever-bell-494be5/deploys)
 <p align="center">
   Official Documentation for The Discord Bot with a little bit of Attitude.
 </p>
