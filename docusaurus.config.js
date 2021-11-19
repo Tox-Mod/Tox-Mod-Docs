@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Tox Mod',
-  tagline: 'The Discord Bot with a little bit of Attitude!.',
-  url: 'https://docs.toxmod.xyz',
+  tagline: 'Documentation for the Discord Bot with a little bit of Attitude!.',
+  url: 'https://help.toxmod.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/584C6B70-CA2C-48DE-B737-107F58FDC322.png',
-  organizationName: 'TheRealToxicDev', // Usually your GitHub org/user name.
+  organizationName: 'Tox-Mod', // Usually your GitHub org/user name.
   projectName: 'Tox-Mod-Docs', // Usually your repo name.
   customFields: {
     metaDescription: 'Documentation for the Discord Bot with a little bit of Attitude.',
@@ -57,6 +57,10 @@ module.exports = {
             {
               label: 'Website',
               href: 'https://toxmod.xyz',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/Tox-Mod',
             },
             {
               label: 'Dashboard',
