@@ -59,4 +59,14 @@ exports.devs = process.env.DEVS
 
 ```
 
+###### Config Variables
+
+| Variable               | Description                                   |
+| ---------------------- | --------------------------------------------- |
+| token                  | The Discord Bot Token                         |
+| clientID               | The Discord Client ID                         |
+| clientSecret           | The Discord Client Secret                     |
+| domain                 | Callback (Ex: https://domain.xyz/callback     | 
+
+
 
