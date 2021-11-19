@@ -18,6 +18,15 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Hosting",
+      items: [
+        "hosting/intro",
+        "hosting/config",
+        "hosting/start-up"
+      ],
+    },
+    {
+      type: "category",
       label: "Permissions",
       items: [
         "permissions/client-perms",
