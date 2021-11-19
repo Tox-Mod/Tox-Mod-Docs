@@ -19,7 +19,7 @@ or you could have issues starting the project.
 ---
 
 ## Default Config
-```js:title=config.js
+```js:title=config
 
 /**
    * For help setting up this file visit: 
@@ -82,3 +82,13 @@ exports.devs = process.env.DEVS
 | devs                   | Array of Bot Dev IDs.                         |
 | beta                   | Array of Beta User IDs.                       |
 
+---
+
+## User Config
+Instead of using the env bars and predefined config shown above you can
+setup the config to read the variables directly from that file instead of
+the `.env`
+
+```js:title=config
+
+```
