@@ -15,3 +15,8 @@ or really anywhere you want to host it 😳
 ## Things you should Know!
 - The Tox Mod Website, API and Client are protected under DMCA
 - Credits should be giving to the Original Author
+
+---
+
+## Support
+• https://toxmod.xyz/discord
