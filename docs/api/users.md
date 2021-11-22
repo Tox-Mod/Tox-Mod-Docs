@@ -2,13 +2,12 @@
 id: case
 title: Case
 sidebar_label: Case
-description: Information about seeing a User Infraction based on the Infraction ID.
+description: Information about fetching a User by ID.
 ---
 
 import Router from "../../src/custom/Router";
 
-Tox Mod has a custom reputation and trust system based entirely around a users guild
-infractions (Ban, Warn Etc). All infractions on the user are stored and available globally
+Tox Mod stores some User Information to display globally!
 
 ## Base URL
 
