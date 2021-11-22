@@ -18,7 +18,7 @@ infractions (Ban, Warn Etc). All infractions on the user are stored and availabl
 
 ## Access Point
 
-<Router type="GET" path="/v1/case/:userID/:caseID" />
+<Router type="GET" path="/v1/users/:userID" />
 
 ---
 
@@ -26,29 +26,24 @@ infractions (Ban, Warn Etc). All infractions on the user are stored and availabl
 
 | Syntax        | Description                                       |
 | ------------- | ------------------------------------------------- |
-| userID        | User ID of the User to fetch a case for           |
-| reason        | Reason the User received the Infraction           |
-| action        | The action that was taken (Ban, Kick etc)         |
-| serverID      | The Server ID where the Infraction Happened       |
-| moderator     | User ID of the person who gave the Infraction     |
-| case          | The Infraction Case ID                            |
-| date          | The Date and Time of the Infraction               |
-| duration      | The Duration if the Infraction (If applicable)    |
+| userID        | User ID of the User to fetch info for             |
+| bio           | Some info about the Provided User                 |
+| website       | The Users website link                            |
+| twitter       | The Users Twitter link                            |
+| github        | The Users GitHub link                             |
+| instagram     | The Ussrs Instagram link                          |
 
 ---
 
 ## Example Response
 ```json
-
 {
-   "userID":"486659270876856362",
-   "reason":"This was a test",
-   "action":"Warn",
-   "serverID":"698445309663117352",
-   "moderator":"510065483693817867",
-   "case":1,
-   "date":"01/14/2021 23:20:26 PM",
-   "duration":"No duration for this Action"
+   "userID":"510065483693817867",
+   "bio":"Freelance Software Developer, Curious by nature, Wannabe Fullstack Developer and always aiming at improvement. ",
+   "website":"https://toxicdev.me",
+   "github":"TheRealToxicDev",
+   "twitter":"TheRealToxicDev",
+   "instagram":"therealtoxicdev"
 }
 
 ```
@@ -59,7 +54,7 @@ infractions (Ban, Warn Etc). All infractions on the user are stored and availabl
 ```js
 const fetch = require("node-fetch");
 
-fetch(`https://api.toxmod.xyz/v1/case/486659270876856362/1`, {
+fetch(`https://api.toxmod.xyz/v1/users/510065483693817867`, {
             method: "GET",
             headers: {
                 "Content-Type": "application/json"
