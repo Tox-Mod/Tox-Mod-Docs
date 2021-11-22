@@ -1,7 +1,7 @@
 ---
 id: case
-title: Case
-sidebar_label: Case
+title: getUserCase()
+sidebar_label: getUserCase()
 description: Information about seeing a User Infraction based on the Infraction ID.
 ---
 
