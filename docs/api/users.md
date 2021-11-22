@@ -1,7 +1,7 @@
 ---
-id: case
-title: Case
-sidebar_label: Case
+id: users
+title: getUser()
+sidebar_label: getUser()
 description: Information about fetching a User by ID.
 ---
 
