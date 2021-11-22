@@ -1,7 +1,7 @@
 ---
-id: cases
-title: User Cases
-sidebar_label: Cases
+id: case
+title: Case
+sidebar_label: Case
 description: Information about seeing a User Infraction based on the Infraction ID.
 ---
 
