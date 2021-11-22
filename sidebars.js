@@ -5,7 +5,8 @@ module.exports = {
       type: "category",
       label: "API",
       items: [
-        "api/intro"
+        "api/intro",
+        "api/cases"
       ],
     },
     {
