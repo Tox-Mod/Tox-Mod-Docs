@@ -103,7 +103,7 @@ module.exports = {
     announcementBar: {
       id: 'notice',
       content:
-        '⚠️ This Documentation site is a Huge work in progress!',
+        '🎉 If you like Tox Mod, give us a ⭐️ on <a target="_blank" rel="noopener noreferrer" href="https://github.com/Tox-Mod/ToxModBot">GitHub</a>',
     },
     image: 'https://toxmod.xyz/images/ToxModLogo.gif',
     metadatas: [
