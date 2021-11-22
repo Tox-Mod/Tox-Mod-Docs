@@ -9,7 +9,7 @@ const mappings = {
     border: "#193123",
   },
   GET: {
-    color: "#7979d4",
+    color: "#21ba06",
     background: "#212133",
     border: "#47476b",
   },
