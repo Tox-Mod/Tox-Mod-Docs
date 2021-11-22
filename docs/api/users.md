@@ -1,7 +1,7 @@
 ---
 id: users
-title: getUser()
-sidebar_label: getUser()
+title: getUserInfo()
+sidebar_label: getUserInfo()
 description: Information about fetching a User by ID.
 ---
 
