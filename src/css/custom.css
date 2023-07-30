@@ -1,0 +1,65 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: rgb(13, 255, 0);
+  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary-light: rgb(70, 203, 174);
+  --ifm-color-primary-lighter: rgb(102, 212, 189);
+  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-code-font-size: 95%;
+}
+
+html[data-theme='dark'] {
+  --ifm-blockquote-color: rgb(13, 255, 0);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(13, 255, 0);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.accent1 {
+  color: #7289DA;
+}
+
+.accent2 {
+  color: #0A0917;
+}
+
+.accent3 {
+  color: #e02012;
+}
+
+.accent4 {
+  color: #bab520;
+}
+
+.accent5 {
+  color: #1A4E2E;
+}
+
+.accent6 {
+  color: #50D5DC;
+}
+
+.accent7 {
+  color: #4590AB;
+}
+
+.accent8 {
+  color: #4B5FF4;
+}
+
+.accent9 {
+  color: #7388DA;
+}

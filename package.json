@@ -1,0 +1,43 @@
+{
+  "name": "tox-mod-docs",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear",
+    "spell-check": "yarn cspell lint --no-progress docs/* src/pages/index.js"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+
+    "@docusaurus/core": "2.0.0-beta.6",
+    "@docusaurus/module-type-aliases": "2.0.0-beta.6",
+    "@docusaurus/preset-classic": "2.0.0-beta.6",
+    "@docusaurus/remark-plugin-npm2yarn": "2.0.0-beta.6",
+    "@mdx-js/react": "^1.6.21",
+    "clsx": "^1.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-copy-to-clipboard": "^5.0.2",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "cspell": "^5.3.4"
+  }
+}
